@@ -709,7 +709,7 @@
 }
 
 .blue.darken-3 {
-	background-color: #1565C0 !important
+	background: linear-gradient(to right,#d42d2e 0,#25283b 100%)
 }
 
 .blue-text.text-darken-3 {
